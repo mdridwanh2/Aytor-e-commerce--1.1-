@@ -1,0 +1,192 @@
+
+
+/* myNavBerSm starts here */
+
+@media (min-width:315px) and (max-width:453px){
+    .myNavBerSm .iconGroup ul .handbag{
+        display: none;
+    }
+}
+
+
+
+@media (min-width:315px) and (max-width:430px){
+    .myNavBerSm .offBar{
+        width: 80%;
+    }
+}
+
+/* myNavBerSm ends here */
+
+
+
+/* banner @media starts here  */
+
+@media (min-width:1400px){
+    #banner .slick-dots {
+    position: absolute;
+    top: 70%;
+    left: 4%;
+    }
+}
+
+@media (min-width:1200px){
+    #banner .slick-dots {
+    position: absolute;
+    top: 70%;
+    left: 4%;
+    }
+}
+
+@media (min-width:992px){
+    #banner .slick-dots {
+    position: absolute;
+    top: 70%;
+    left: 3%;
+    }
+}
+
+@media (min-width:768px){
+    #banner .slick-dots {
+    position: absolute;
+    top: 70%;
+    left: 5%;
+    }
+}
+
+@media (min-width:576px){
+    #banner .slick-dots {
+    position: absolute;
+    top: 70%;
+    left: 6%;
+    }
+}
+
+
+@media (min-width:315px){
+        #banner .banner_slider h1 {
+        font-family: 'Josefin Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 47px;
+        line-height: 74px;
+        color: #1D1D1D;
+    }
+}
+
+
+
+@media (min-width:315px) and (max-width: 758px){
+        #banner .banner_slider h1 {
+        font-family: 'Josefin Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 74px;
+        color: #1D1D1D;
+    }
+}
+
+@media (min-width:315px) and (max-width:992px){
+    #banner .banner_slider h4 {
+        width: 212.73px;
+        height: 30px;
+        font-weight: 600;
+        font-size: 22px;
+        line-height: 57px;
+        color: #1D1D1D;
+    }
+}
+
+@media (min-width:315px) and (max-width:992px){
+    #banner .banner_slider a {
+        display: inline-block;
+        font-family: 'Josefin Sans';
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 23px;
+        text-align: center;
+        color: #FFFFFF;
+        width: 114.36px;
+        height: 44px;
+        background: #FF6F61;
+        padding: 12px 19px;
+        cursor: pointer;
+        margin: 5px 0;
+        border-radius: 5px;
+    }
+}
+
+
+@media (min-width:315px) and (max-width:992px){
+    #banner .slick-dots{
+        display: none !important;
+    }
+}
+
+
+@media (min-width:315px) and (max-width: 658px){
+        #banner .banner_slider {
+        height: 350px;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+}
+
+
+
+@media (min-width:315px) and (max-width:658px) {
+    #banner .banner_slider p {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 26px;
+        color: #1D1D1D;
+        margin: 4px 0;
+    }
+}
+/* banner @media ends here  */
+
+
+
+
+
+/* item product starts here */
+@media (min-width:315px) and (max-width:768px){
+    #beauty .one_item_product img {
+        width: 294px;
+        height: 179px;
+        border-radius: 5px;
+        margin-bottom: 15px;
+    }
+}
+
+
+@media (min-width:315px) and (max-width:768px){
+    #beauty .two_item_product img {
+        width: 294px;
+        height: 188px;
+        border-radius: 5px;
+    }
+}
+
+
+
+@media (min-width:315px) and (max-width:768px){
+    #beauty .two_item_product .overplay, 
+    #beauty .one_item_product .overplay{
+        display: none;
+    }
+}
+	
+
+@media (min-width:315px) and (max-width:768px){
+    #beauty {
+        margin: 13px 0;
+    }
+}
+
+
+/* item product ends here */
